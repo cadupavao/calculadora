@@ -7,5 +7,8 @@ int multiplica (){}
 int divide (){}
 
 int main(){
+
 	printf("hello hit!");
+
+
 }
